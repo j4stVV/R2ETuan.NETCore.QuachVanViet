@@ -1,0 +1,251 @@
+[2025-03-28 15:14:36] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /
+Query string: 
+Request body: 
+[2025-03-28 15:27:25] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /
+Query string: 
+Request body: 
+[2025-03-28 15:32:29] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 15:34:11] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 15:35:29] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /test%20-d%20'%7B%22key%22:%22value%22%7D'%20-H%20%22Content-Type:%20application/json
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 15:39:02] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /test
+Query string: ?param1=value1
+Request body: 
+------------------------------
+[2025-03-28 15:39:12] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /test
+Query string: ?param1=value1
+Request body: 
+------------------------------
+[2025-03-28 15:39:22] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /test
+Query string: ?param1=value1
+Request body: 
+------------------------------
+[2025-03-28 17:03:46] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 17:04:40] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/employees
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 17:05:47] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/employees
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 17:05:52] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/Employees
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 17:05:56] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/Employee
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 17:06:27] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/Employees
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 17:07:38] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 17:07:48] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/employees
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 17:08:16] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/employees
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 17:14:50] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 17:20:30] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 17:20:45] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /
+Query string: 
+Request body: {
+    "FullName": "John Doe",
+    "Age": 30,
+    "Email": "john.doe@example.com"
+}
+------------------------------
+[2025-03-28 17:21:42] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/employees
+Query string: 
+Request body: {
+    "FullName": "John Doe",
+    "Age": 30,
+    "Email": "john.doe@example.com"
+}
+------------------------------
+[2025-03-28 17:23:23] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/employees
+Query string: 
+Request body: {
+    "FullName": "Duong",
+    "Age": 22,
+    "Email": "duong.doe@example.com"
+}
+------------------------------
+[2025-03-28 17:23:31] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/employees/2
+Query string: 
+Request body: {
+    "FullName": "Duong",
+    "Age": 22,
+    "Email": "duong.doe@example.com"
+}
+------------------------------
+[2025-03-28 17:35:04] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 17:35:32] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/employees
+Query string: 
+Request body: 
+------------------------------
+[2025-03-28 17:36:11] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/employees/2
+Query string: 
+Request body: {
+    "FullName": "Duong",
+    "Age": 22,
+    "Email": "duong.doe@example.com"
+}
+------------------------------
+[2025-03-28 17:36:18] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/employees/
+Query string: 
+Request body: {
+    "FullName": "Duong",
+    "Age": 22,
+    "Email": "duong.doe@example.com"
+}
+------------------------------
+[2025-03-28 17:36:27] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/employees/
+Query string: 
+Request body: {
+    "FullName": "Tue",
+    "Age": 22,
+    "Email": "tue.doe@example.com"
+}
+------------------------------
+[2025-03-28 17:36:33] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/employees/
+Query string: 
+Request body: {
+    "FullName": "Viet",
+    "Age": 22,
+    "Email": "viet.doe@example.com"
+}
+------------------------------
+[2025-03-28 17:36:39] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/employees/
+Query string: 
+Request body: {
+    "FullName": "Viet",
+    "Age": 22,
+    "Email": "viet.doe@example.com"
+}
+------------------------------
+[2025-03-28 17:36:45] Request Log: 
+Scheme: https
+Host: localhost:7292
+Path: /api/employees
+Query string: 
+Request body: 
+------------------------------
